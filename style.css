@@ -1,0 +1,24 @@
+/*setup*/
+* {
+    box-sizing: border-box;
+}
+
+section{
+    border: 4px solid blue;
+   
+}
+header, footer, main{
+    border: 4px solid red;
+    
+}
+
+
+
+
+
+/*structure*/
+.inner-column{
+    border: 4px solid orange;
+    display: block;
+    padding: 10px;
+}
